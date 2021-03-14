@@ -23,7 +23,7 @@ public class LogInTest4 {
 	@BeforeClass
 	public void OpenUrlWithBrowser() {
 		
-		
+		//adfdsa
 			try {
 				fileLoc = new FileInputStream(System.getProperty("user.dir")+"\\configuration\\config.properties");
 				prop = new Properties();

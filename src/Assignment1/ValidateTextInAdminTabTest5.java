@@ -22,7 +22,7 @@ public class ValidateTextInAdminTabTest5 {
 		
 	@BeforeTest
 	public void OpenUrlWithBrowser() {
-		
+		//yuii
 		
 			try {
 				fileLoc = new FileInputStream(System.getProperty("user.dir")+"\\configuration\\config.properties");

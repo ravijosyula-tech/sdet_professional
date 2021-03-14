@@ -29,7 +29,7 @@ public class Test6To10Ravi {
 	public static FileInputStream fileLoc;
 	public static Properties prop;
 	//
-	//
+	//fdsfsd
 	//test 9 :  Write a method (avoid using Test annotation) to minimize the window.
 	public void MinimizeBrowser() {
 		Point p = driver.manage().window().getPosition();
